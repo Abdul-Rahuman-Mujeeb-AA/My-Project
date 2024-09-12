@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline-block;
+}
+ul{
+    margin-left: 55%;
+    padding-top: 5px;
+}
+li{
+    color: grey;
+}
+li:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+h1{
+    margin-top: 10px;
+}
+.Box{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    width: 240px;
+    display: inline-block;
+    padding: 25px;
+    margin-top: 10%;
+    margin-bottom: 6%;
+}
+
+.h3{
+    padding: 10px;
+}
